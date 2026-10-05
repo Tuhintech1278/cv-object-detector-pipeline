@@ -56,7 +56,6 @@ flowchart LR
 
 ## 📸 Demo
 
-> Add your screenshots to a `docs/` folder and they will appear here.
 
 | Classical mode | YOLO mode |
 |:---:|:---:|
@@ -68,7 +67,7 @@ flowchart LR
 
 ### 1. Clone the project
 ```bash
-git clone https://github.com/YOUR-USERNAME/cv-object-detector-pipeline.git
+git clone https://github.com/Tuhintech1278/cv-object-detector-pipeline.git
 cd cv-object-detector-pipeline
 ```
 
@@ -197,9 +196,9 @@ cv_pipeline/
 
 ## 👤 Author
 
-**Your Name**
-Internship project at **Your Organisation**
-🔗 [GitHub](https://github.com/YOUR-USERNAME) · [LinkedIn](https://linkedin.com/in/your-profile)
+**Tuhin Mondal**
+Internship project at **Progree**
+🔗 [GitHub](https://github.com/Tuhintech1278) · [LinkedIn](https://www.linkedin.com/in/tuhin-mondal-87a38635a/)
 
 ---
 
